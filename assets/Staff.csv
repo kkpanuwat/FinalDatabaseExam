@@ -1,31 +1,31 @@
 STAFF_ID,STAFF_NAME,SALARY,DEPARTMENT_ID
-S01,John Doe,50000,D01
-S02,Jane Smith,45000,D02
-S03,Bob Johnson,60000,D03
-S04,Sarah Lee,55000,D04
-S05,David Chen,65000,D05
-S06,Lisa Kim,48000,D06
-S07,Michael Davis,52000,D01
-S08,Emily Brown,58000,D02
-S09,Kevin Garcia,51000,D03
-S10,Samantha Rodriguez,62000,D04
-S11,James Taylor,47000,D05
-S12,Ashley Martin,54000,D06
-S13,Richard Clark,59000,D01
-S14,Michelle Lee,53000,D02
-S15,William Jones,67000,D03
-S16,Victoria Rodriguez,46000,D04
-S17,Andrew Hernandez,50000,D05
-S18,Jessica Perez,61000,D06
-S19,Christopher Davis,54000,D01
-S20,Elizabeth Johnson,64000,D02
-S21,Matthew Gonzalez,49000,D03
-S22,Amanda Wilson,52000,D04
-S23,Timothy Anderson,57000,D05
-S24,Stephanie Brown,52000,D06
-S25,Nicholas Martinez,63000,D01
-S26,Lauren Wilson,47000,D02
-S27,Brandon Anderson,51000,D03
-S28,Christina Taylor,56000,D04
-S29,Aaron Lewis,50000,D05
-S30,Kimberly Allen,61000,D06
+S01,อาภาพร,25000,D02
+S02,กานดา,22000,D01
+S03,จิรายุ,28000,D03
+S04,ตรีสุดา,30000,D02
+S05,ภรณี,26000,D01
+S06,รุ่งนภา,24000,D03
+S07,อัจฉรีย์,27000,D06
+S08,อรวรรณ,25000,D05
+S09,จิตติ,29000,D04
+S10,สุชาติ,28000,D02
+S11,รัชนี,23000,D05
+S12,สุทัศน์,22000,D04
+S13,พิชญา,26000,D01
+S14,ชุติมา,24000,D03
+S15,ทิพย์พร,27000,D06
+S16,อัครวิทย์,25000,D05
+S17,เจนิส,29000,D04
+S18,วรุตม์,28000,D02
+S19,จิณณ์ภัส,23000,D05
+S20,รติภัทร,22000,D04
+S21,พิชชา,26000,D01
+S22,ฐิติกร,24000,D03
+S23,ปัณณ์ภรณ์,27000,D06
+S24,รุ่งทิวา,25000,D05
+S25,เดชา,29000,D04
+S26,นัทธิชา,28000,D02
+S27,กนกพร,23000,D05
+S28,อนุชิต,22000,D04
+S29,นันทิพร,26000,D01
+S30,ปณิธาน,24000,D03
