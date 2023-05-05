@@ -1,0 +1,11 @@
+PRODUCT_ID,PRODUCT_NAME,PRODUCT_DOS,DESCRIPTION,PRODUCT_TYPE_ID
+P01, Ginseng, 500, A traditional herbal supplement used to boost energy and reduce stress, PT1
+P02, Echinacea, 250, A natural remedy used to boost the immune system and fight off infections, PT4
+P03, Turmeric, 500, A spice used in traditional medicine for its anti-inflammatory properties, PT2
+P04, Ginkgo biloba, 120, A supplement used to improve memory and cognitive function, PT5
+P05, Milk thistle, 200, A supplement used to support liver health and detoxification, PT8
+P06, Saw palmetto, 320, A supplement used to support prostate health in men, PT9
+P07, Valerian root, 500, A natural remedy used to promote relaxation and improve sleep quality, PT1
+P08, St. John's Wort, 300, A natural remedy used to treat depression and anxiety, PT3
+P09, Ginger, 550, A natural remedy used to alleviate nausea and digestive issues, PT6
+P10, Chamomile, 350, A natural remedy used to promote relaxation and reduce anxiety, PT7
