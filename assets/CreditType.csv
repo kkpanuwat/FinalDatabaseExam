@@ -1,0 +1,31 @@
+CREDIT_CARD_TYPE_ID,CREDIT_CARD_TYPE_NAME
+CA1,Visa
+CA2,Mastercard
+CA3,American Express
+CA4,Discover
+CA5,JCB
+CA6,Diners Club
+CA7,UnionPay
+CA8,Mir
+CA9,RuPay
+CB1,BC Card
+CB2,Carte Blanche
+CB3,Dankort
+CB4,Laser
+CB5,Eurocard
+CB6,Maestro
+CB7,Solo
+CB8,Switch
+CB9,Verve
+CC1,Bancontact
+CC2,Elo
+CC3,Hipercard
+CC4,KBC
+CC5,Forbrugsforeningen
+CC6,Cabal
+CC7,Card Guard
+CC8,Nexi
+CC9,Payoneer
+CD1,Revolut
+CD2,Samsung Pay
+CD3,Apple Card
