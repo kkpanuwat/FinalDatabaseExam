@@ -1,0 +1,10 @@
+﻿SHIPING_ID,SHIPING_NAME,SHIPING_TYPE_ID,SHIPING_RAT_PER_SHIPMENT,SHIPING_RAT_PER_ITEM
+TI1,"ถ้าการสัง1 ซือต่อครังราคาสัง1 ซือ > 1, 500",T01,100,10
+TI2,"ถ้าการสัง1 ซือต่อครังราคาสัง1 ซือ < 1, 500",T01,500,10
+TI3,Asia,T02,400,50
+TI4,South Asia/Oceania,T02,300,50
+TI5,North America 400 50,T02,400,50
+TI6,Europe 700 60,T02,700,60
+TI7,South America / Africa/Middle East,T02,700,60
+TI8,Asia,T03,500,100
+TI9,South Asia/Oceania,T03,400,100
